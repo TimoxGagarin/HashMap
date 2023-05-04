@@ -1,0 +1,4 @@
+﻿  excel.cpp
+D:\Programming\csharp\2sem8lab\2sem8lab\excel.cpp(44,9): warning C4101: 'a': unreferenced local variable
+D:\Programming\csharp\2sem8lab\2sem8lab\excel.cpp(16): warning C4715: 'pos_of': not all control paths return a value
+  2sem8lab.vcxproj -> D:\Programming\csharp\2sem8lab\x64\Debug\2sem8lab.exe
